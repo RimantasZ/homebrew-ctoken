@@ -6,7 +6,7 @@ class Ctoken < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/RimantasZ/ctoken/releases/download/v0.1.0/ctoken-aarch64-apple-darwin.tar.gz"
-      sha256 "PLACEHOLDER"
+      sha256 "e959a3fccac871f75d1c796d74d5c0cfe6bb80661c3a4563b93de99afdd5e579"
     end
   end
 
