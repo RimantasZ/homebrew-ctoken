@@ -1,0 +1,1 @@
+Homebrew tap repo for [ctoken](https://github.com/RimantasZ/ctoken) CLI tool
